@@ -1,0 +1,155 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2020/04/shopical.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2020/04/shopical.wie
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2020/04/shopical.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "devin-edwards-776947-unsplash" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "devin-edwards-776947-unsplash" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "devin-edwards-776947-unsplash" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Subscribe to our Newsletter": Invalid post type boxzilla-box
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Subscribe to our Newsletter": Invalid post type boxzilla-box
+
+
+---Importing widgets---
+Off-canvas Panel : 
+
+AFTS Author Info - No Title - Imported
+Products - Latest Products - Imported
+Product Tag Cloud - No Title - Imported
+
+Static Frontpage Section : 
+
+AFTS Product Carousel Tabbed - No Title - Imported
+AFTS Product List - No Title - Imported
+AFTS Product Slider - No Title - Imported
+AFTS Product Carousel - No Title - Imported
+AFTS Store Offers - No Title - Imported
+AFTS Call to Action - No Title - Imported
+AFTS Latest Posts - No Title - Imported
+AFTS Product List - No Title - Imported
+AFTS Store Features and Facilities - No Title - Imported
+
+Shop Sidebar : 
+
+Active Product Filters - Active filters - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Rating - Average rating - Imported
+Products - Latest Products - Imported
+Products by Rating - Top rated products - Imported
+
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer First Section : 
+
+Products - Latest Products - Imported
+
+Footer Second Section : 
+
+Products - Featured Products - Imported
+
+Footer Third Section : 
+
+Products - On-sale Products - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
